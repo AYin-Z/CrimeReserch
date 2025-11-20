@@ -1,0 +1,17 @@
+aiohttp==3.9.5
+beautifulsoup4==4.12.3
+geopandas==0.14.4
+lxml==5.2.1
+pandas==2.2.2
+pyproj==3.6.1
+pyquery==2.0.0
+PyYAML==6.0.1
+requests==2.32.3
+scrapy==2.11.1
+selenium==4.24.0
+shapely==2.0.3
+SQLAlchemy==2.0.32
+tenacity==8.3.0
+psycopg2-binary==2.9.9
+numpy==1.26.4
+pytest==8.3.2

@@ -1,0 +1,31 @@
+# Python cache and build artifacts
+__pycache__/
+*.py[cod]
+*.so
+*.dylib
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Logs and generated outputs
+*.log
+crawler_project/logs/
+crawler_project/output/
+
+# Test/coverage artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environment files and local secrets
+.env
+.env.*
+.DS_Store
+Thumbs.db
+
+# IDE/editor folders
+.vscode/
+.idea/

@@ -1,0 +1,11 @@
+request_policy:
+  min_delay_seconds: 2
+  max_delay_seconds: 5
+  max_retries: 4
+  backoff_factor: 1.8
+proxy:
+  enabled: false
+api_keys:
+  baidu_map: "YOUR_BAIDU_API_KEY"
+storage:
+  postgres_dsn: "postgresql+psycopg2://user:password@localhost:5432/emergency_intel"
